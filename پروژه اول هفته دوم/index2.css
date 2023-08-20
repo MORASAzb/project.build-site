@@ -77,7 +77,7 @@ body {
     display: flex;
     gap: 100px;
     position: relative;
-    top: 100px;
+    top: 60px;
     left: 5px;
     justify-content: center;
     align-items: center;
@@ -112,4 +112,13 @@ body {
     gap: 2.5rem;
 
 
+}
+
+.icon-hc,
+.icon-massage {
+    /*font-size: 250px;*/
+    width: 40px;
+    height: 38px;
+    color: #aaaaaa;
+    margin-bottom: 50px;
 }
